@@ -1,6 +1,6 @@
-numpy>=1.24.0
-scikit-learn>=1.3.0
+numpy
+scikit-learn
 streamlit>=1.28.0
-streamlit-drawable-canvas>=0.2.2
-pillow>=9.0.0,<10
-joblib>=1.3.0
+streamlit-drawable-canvas
+Pillow
+joblib
